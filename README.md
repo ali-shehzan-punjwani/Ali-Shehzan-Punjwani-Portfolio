@@ -91,9 +91,9 @@ The purpose of this portfolio is to:
 - Connect with recruiters, industry professionals, and collaborators.
 
 ## 📷 Portfolio Preview
+<img width="1916" height="880" alt="Screenshot 2026-08-03 203333" src="https://github.com/user-attachments/assets/550aad2d-e2aa-4fea-85cb-848521059d6d" />
 <img width="1919" height="883" alt="Screenshot 2026-08-03 203414" src="https://github.com/user-attachments/assets/11a2ce20-2275-4647-a129-da2407367b11" />
 <img width="1919" height="887" alt="Screenshot 2026-08-03 203348" src="https://github.com/user-attachments/assets/f46513e2-9aa0-4423-a8b5-5d7e66ab1d31" />
-<img width="1916" height="880" alt="Screenshot 2026-08-03 203333" src="https://github.com/user-attachments/assets/550aad2d-e2aa-4fea-85cb-848521059d6d" />
 <img width="1919" height="881" alt="Screenshot 2026-08-03 203430" src="https://github.com/user-attachments/assets/a6f38533-4f0e-472d-a8de-1a4774b6c0cf" />
 
 ## 📈 Future Improvements
